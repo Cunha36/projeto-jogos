@@ -15,6 +15,7 @@ def jogar():
 
     nivel = int(input("Define o nivel: "))
 
+
     if (nivel == 1):
         total_de_tentativas = 20
     elif (nivel == 2):
